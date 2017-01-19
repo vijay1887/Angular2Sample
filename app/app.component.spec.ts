@@ -16,8 +16,6 @@ describe('AppComponent', function () {
     .compileComponents();
   }));
 
-  
-
   beforeEach(() => {
     fixture = TestBed.createComponent(AppComponent);
     comp = fixture.componentInstance;
